@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"这是要提交到服务器的代码");
+    NSLog(@"SourceTree");
 }
 
 
